@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- [Bulleted](/NCSULib_workshop/about)
 - List
 
 1. Numbered
